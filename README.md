@@ -8,7 +8,7 @@ UX:
 
 1. Select from objects catalog
 2. Glue to the cursor during dragging (for precise operation)
-3. Insert a room like normal element
+3. Insert a room like normal element (use provided images for button images)
 
 ![rooms](rooms.JPG)
 
