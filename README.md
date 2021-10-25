@@ -17,4 +17,5 @@ Additinal feartures:
 
 - transform controllers after insert (rotate, scale)
 - snapping to existing wall vertex
-- popup on the begining of creation process to allow user input (width,depth,rotatin,mirror)
+- show popup window on the begining of creation process for user input (width,depth,rotatin,mirror)
+
