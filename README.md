@@ -15,7 +15,7 @@ UX:
 
 Additinal feartures:
 
-- transform controllers after insert (rotate, scale)
+- transform controllers after insert (translate, rotate, scale), like for the element
 - snapping to existing wall vertex
 - show popup window on the begining of creation process for user input (width,depth,rotatin,mirror). UI according to picture below:
 
