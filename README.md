@@ -12,7 +12,7 @@ UX:
 
 ![rooms](rooms.JPG)
 
-4. Rescale, rotate in second step (after insert)
+4. Allow for Translate, Scale, Rotate in second step (after insert)
 5. Take into consideration removal of double vertices, and double lines (don't brake existing functionality). Make it weorking with existing colapse vertices feature.
 
 Additinal feartures:
