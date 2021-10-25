@@ -17,5 +17,6 @@ Additinal feartures:
 
 - transform controllers after insert (rotate, scale)
 - snapping to existing wall vertex
-- show popup window on the begining of creation process for user input (width,depth,rotatin,mirror)
+- show popup window on the begining of creation process for user input (width,depth,rotatin,mirror). UI according to picture belowŁ
 
+![Room creator](Room_creator.JPG)
