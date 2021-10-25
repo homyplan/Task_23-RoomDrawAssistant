@@ -10,6 +10,7 @@ UX:
 2. Glue to the cursor during dragging (for precise operation)
 3. Insert a room like normal element
 4. Rescale, rotate in second step (after insert)
+5. Take into consideration removal of double vertices, and double lines (don't brake existing functionality). Make it weorking with existing colapse vertices feature.
 
 ![rooms](rooms.JPG)
 
