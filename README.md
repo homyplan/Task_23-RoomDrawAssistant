@@ -7,10 +7,16 @@ Add buttons for a few new ReactPlanner elements - rooms with different shape:
 UX:
 
 1. Select from objects catalog
-2. Glue to the cursor during dragging (for precise operation)
-3. Insert a room like normal element (use provided images for button images)
 
 ![rooms](rooms.JPG)
+
+3. Glue to the cursor during dragging (for precise operation)
+4. Insert a room like normal element (use provided images for button images)
+
+![rooms](RoomAssistant_01.JPG)
+![rooms](RoomAssistant_02.JPG)
+![rooms](RoomAssistant_03.JPG)
+![rooms](RoomAssistant_04.JPG)
 
 4. Allow for Translate, Scale, Rotate in second step (after insert)
 5. Take into consideration removal of double vertices, and double lines (don't brake existing functionality). Make it weorking with existing colapse vertices feature.
