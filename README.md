@@ -4,6 +4,14 @@ Help floor plan drawing process with room draw feature.
 
 Add buttons for a few new ReactPlanner elements - rooms with different shape (consisting of walls and automatic floor/area).
 
+Use images included in the repo for icons/thumbnails
+
+Follow the react-planer's structure of the objects in catalog.
+
+Prepare separate object for each component
+
+![catalog](https://user-images.githubusercontent.com/38282085/145831467-543a98bf-4b47-41a9-9a45-7997a9cc3e33.JPG)
+
 UX:
 
 1. Select from objects catalog
@@ -29,3 +37,4 @@ Additinal feartures:
 - show popup window on the begining of creation process for user input (width,depth,rotatin,mirror). UI according to picture below:
 
 ![Room creator](Room_creator.JPG)
+
