@@ -2,25 +2,27 @@
 
 Help floor plan drawing process with room draw feature.
 
-Add buttons for a few new ReactPlanner elements - rooms with different shape (consisting of walls and automatic floor/area).
-
-Use images included in the repo for icons/thumbnails
-
-Follow the react-planer's structure of the objects in catalog.
-
-Prepare separate object for each component
+- Add buttons for a few new ReactPlanner elements - rooms with different shape (consisting of walls and automatic floor/area).
+- Use images included in the repo for icons/thumbnails
+- Follow the react-planer's structure of the objects in catalog.
+- Prepare separate object for each component in src/catalog/constructions... folder
+- add controller functionality (move scale) activated by clicking on the area
 
 ![catalog](https://user-images.githubusercontent.com/38282085/145831467-543a98bf-4b47-41a9-9a45-7997a9cc3e33.JPG)
 
 UX:
 
-1. Select from objects catalog
+1. Select from the catalog of objects
 
 ![rooms](rooms.JPG)
 
 3. Glue to the cursor during dragging (for precise operation)
-4. Insert a room like normal element (use provided images for button images)
-4. Allow for Translate, Scale, Rotate in second step (after insert). Lack of Rotate controller on images below but it should be there.
+4. Select a room like normal element (use provided images for button images)
+5. Allow inserting to the scene like a normal object (with drage and drop). Dropping by releasing the mnouse button.
+6. Complete snapping functionalit, where bnew room/area can be snapped/glued to existing walls (use existing vertex snap functionality as a reference)
+7. Allow for Translate, Scale, Rotate in second step (after insert). Lack of Rotate controller on images below but it should be there.
+8. Prevent interactions with existing walls before user accept (by clicking on the icon) (existing walls cannot be divided or replaced with newly created room befpre accept prpcess) (OK or tick icon)
+9. If the new room is snapped to existing walls or it is drawn inside existing perimeter of the house inform the ser that app s going to merge rooms (new and existing one)
 
 ![rooms](RoomAssistant_01.JPG)
 ![rooms](RoomAssistant_02.JPG)
@@ -28,7 +30,8 @@ UX:
 ![rooms](RoomAssistant_04.JPG)
 
 
-5. Take into consideration removal of double vertices, and double lines (don't brake existing functionality). Make it weorking with existing colapse vertices feature.
+10. Take into consideration removal of double vertices, and double lines (don't brake existing functionality). Make it weorking with existing colapse vertices feature.
+11. Use existing rect controller (for transformations)
 
 Additinal feartures:
 
