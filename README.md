@@ -1,8 +1,8 @@
 # Task_23-RoomDrawAssistant
 
-Automate drawing process with room draw feature.
+Help floor plan drawing process with room draw feature.
 
-Add buttons for a few new ReactPlanner elements - rooms with different shape:
+Add buttons for a few new ReactPlanner elements - rooms with different shape (consisting of walls and automatic floor/area).
 
 UX:
 
