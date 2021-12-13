@@ -32,13 +32,6 @@ UX:
 
 10. Take into consideration removal of double vertices, and double lines (don't brake existing functionality). Make it weorking with existing colapse vertices feature.
 11. Use existing rect controller (for transformations) from built in wardrobe object
-12. 
-
-Additinal feartures:
-
-- transform controllers after insert (translate, rotate, scale), like for the element
-- snapping to existing wall vertex
-- show popup window on the begining of creation process for user input (width,depth,rotatin,mirror). UI according to picture below:
-
-![Room creator](Room_creator.JPG)
+13. snapping to existing wall vertex
+14. Show popup window on the begining of creation process for user inputs (dimensions) like in floorplan creator task
 
