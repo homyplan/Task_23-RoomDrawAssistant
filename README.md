@@ -35,6 +35,13 @@ Internal insert:
 ![rooms](RoomAssistant_05.JPG)
 ![rooms](RoomAssistant_06.JPG)
 
+Merge rooms
+
+
+![rooms](RoomAssistant_08.JPG)
+![rooms](RoomAssistant_09.JPG)
+![rooms](RoomAssistant_10.JPG)
+
 Detachment
 
 ![rooms](RoomAssistant_07.JPG)
