@@ -34,4 +34,3 @@ UX:
 11. Use existing rect controller (for transformations) from built in wardrobe object
 13. snapping to existing wall vertex
 14. Show popup window on the begining of creation process for user inputs (dimensions) like in floorplan creator task
-
