@@ -37,7 +37,7 @@ Internal insert:
 
 Detachment
 
-![rooms](RoomAssistant_06.JPG)
+![rooms](RoomAssistant_07.JPG)
 
 10. Take into consideration removal of double vertices, and double lines (don't brake existing functionality). Make it weorking with existing colapse vertices feature.
 11. Use existing rect controller (for transformations) from built in wardrobe object
