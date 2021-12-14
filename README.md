@@ -16,6 +16,10 @@ UX:
 
 ![rooms](rooms.JPG)
 
+use popup to input basic room dimensions (like with floor plan creator)
+
+![rooms](Room_creator.JPG)
+
 3. Glue to the cursor during dragging (for precise operation)
 4. Select a room like normal element (use provided images for button images)
 5. Allow inserting to the scene like a normal object (with drage and drop). Dropping by releasing the mnouse button.
