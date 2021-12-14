@@ -40,7 +40,7 @@ Merge rooms
 
 ![rooms](RoomAssistant_08.JPG)
 ![rooms](RoomAssistant_10.JPG)
-![rooms](RoomAssistant_11.JPG)
+![rooms](RoomAssistant_09.JPG)
 
 Detachment
 
